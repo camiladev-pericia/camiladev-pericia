@@ -35,5 +35,5 @@ Como **Perita Digital no TJMG**, trabalho diretamente na análise de evidências
 ---
 
 ### 📊 GitHub Stats
-![Status do meu GitHub](https://github-readme-stats.vercel.app/api?username=camiladev-pericia&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=camiladev-pericia&layout=compact&theme=radical)
+** Status do meu GitHub:** https://github-readme-stats.vercel.app/api?username=camiladev-pericia&show_icons=true&theme=radical
+** Linguagens mais usadas: ** https://github-readme-stats.vercel.app/api/top-langs/?username=camiladev-pericia&layout=compact&theme=radical
